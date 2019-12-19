@@ -1,0 +1,15 @@
+*.exe
+*.config
+*.pdb
+*.cache
+*.txt
+
+bin
+obj
+*.sln
+*.sln
+db.lock
+*.suo
+*.ide
+*.ide-shm
+*.ide-wal
